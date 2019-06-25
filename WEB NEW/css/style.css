@@ -1,0 +1,54 @@
+body {
+    background-color: #f8f9fa;
+}
+
+
+
+
+.col-sm-4 a {
+    margin-left: 100px;
+}
+
+.col-sm-4 {
+    margin: auto;
+    padding-left: 80px;
+}
+
+/* icon */
+.icon-home {
+    height: 50px;
+
+}
+
+.icon-sdm {
+    height: 50px;
+}
+
+.icon-karir {
+    height: 50px;
+    margin-right: 15px;
+}
+
+.icon-security {
+    height: 60px;
+    margin-top: 18px;
+}
+
+.icon-waktu {
+    height: 60px;
+    margin-top: 18px;
+}
+
+.icon-alat {
+    height: 60px;
+    margin-right: 15px;
+}
+
+/* akhir icon */
+
+
+/* css bagian features */
+
+.media img {
+    border-radius: 13px;
+}
